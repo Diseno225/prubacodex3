@@ -1,0 +1,105 @@
+# WordPress
+wp-config.php
+wp-config-local.php
+wp-content/uploads/
+wp-content/backup-*
+wp-content/cache/
+wp-content/plugins/*/
+!wp-content/plugins/.gitkeep
+wp-content/themes/*/
+!wp-content/themes/.gitkeep
+
+# WordPress específico
+.htaccess
+sitemap.xml
+sitemap.xml.gz
+wp-cli.local.yml
+wp-cli.yml
+/wordpress/
+/wp/
+
+# Instalación de WordPress
+/wp-admin/
+/wp-includes/
+/index.php
+/license.txt
+/readme.html
+/wp-activate.php
+/wp-blog-header.php
+/wp-cron.php
+/wp-load.php
+/wp-login.php
+/wp-mail.php
+/wp-settings.php
+/wp-signup.php
+/wp-trackback.php
+/xmlrpc.php
+
+# Dependencias
+node_modules/
+vendor/
+composer.lock
+package-lock.json
+yarn.lock
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+.env.php
+
+# IDE y editores
+.vscode/
+.idea/
+.DS_Store
+.sublime-project
+.sublime-workspace
+*.swp
+*.swo
+*~
+.project
+.classpath
+*.c9/
+*.sublime-workspace
+
+# OS
+Thumbs.db
+Desktop.ini
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+debug.log
+error.log
+
+# Backups y temporales
+*.bak
+*.tmp
+*~
+.backup
+/backups/
+/tmp/
+
+# NPM y otras herramientas
+.npm
+.node-gyp/
+.yarn
+.pnp
+.pnp.js
+
+# Análisis de código
+.phpunit.result.cache
+coverage/
+.coverage
+
+# Archivos del sistema
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Específico del proyecto
+local-config.php
+.cache/
+dist/
+build/
