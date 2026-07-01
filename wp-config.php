@@ -102,11 +102,8 @@ define( 'WP_DEBUG', false );
 
 
 
-/* Recognize HTTPS when Azure App Service terminates TLS at its reverse proxy. */
-if ( isset( $_SERVER['HTTP_X_FORWARDED_PROTO'] )
-	&& false !== strpos( $_SERVER['HTTP_X_FORWARDED_PROTO'], 'https' ) ) {
-	$_SERVER['HTTPS'] = 'on';
-}
+/* Azure App Service terminates TLS before forwarding requests to PHP. */
+$_SERVER['HTTPS'] = 'on';
 
 /* That's all, stop editing! Happy publishing. */
 
