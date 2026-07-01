@@ -25,13 +25,13 @@ define( 'WP_CACHE', true );
 define( 'DB_NAME', 'i10476717_wxzy1' );
 
 /** Database username */
-define( 'DB_USER', 'i10476717_wxzy1' );
+define( 'DB_USER', 'stratik' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'N.17UXnZyK4UrEqc6P444' );
+define( 'DB_PASSWORD', 'Xcf-bCLn2Bolyvyu' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'websitegen-cc535677c3-wpdbserver.mysql.database.azure.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
