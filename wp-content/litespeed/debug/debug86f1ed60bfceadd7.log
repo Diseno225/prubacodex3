@@ -1,0 +1,26 @@
+[24-Apr-2026 17:21:16 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-includes/functions.php on line 7374
+[24-Apr-2026 17:21:16 UTC] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-includes/functions.php on line 2196
+[24-Apr-2026 17:21:21 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-includes/functions.php on line 7374
+[24-Apr-2026 17:21:21 UTC] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-includes/functions.php on line 2196
+[24-Apr-2026 17:21:21 UTC] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #1 must be of type array, false given in /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-content/plugins/sticky-side-buttons/sticky-side-buttons.php:44
+Stack trace:
+#0 /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-content/plugins/sticky-side-buttons/sticky-side-buttons.php(44): array_merge()
+#1 /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-includes/class-wp-hook.php(341): ssb_activate()
+#2 /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#3 /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-includes/plugin.php(522): WP_Hook->do_action()
+#4 /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-admin/includes/plugin.php(703): do_action()
+#5 /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-admin/plugins.php(60): activate_plugin()
+#6 {main}
+  thrown in /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-content/plugins/sticky-side-buttons/sticky-side-buttons.php on line 44
+[24-Apr-2026 17:21:22 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-includes/functions.php on line 7374
+[24-Apr-2026 17:21:22 UTC] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-includes/functions.php on line 2196
+[24-Apr-2026 17:21:29 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-includes/functions.php on line 7374
+[24-Apr-2026 17:21:29 UTC] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-includes/functions.php on line 2196
+[24-Apr-2026 17:21:31 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-includes/functions.php on line 7374
+[24-Apr-2026 17:21:31 UTC] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-includes/functions.php on line 2196
+[24-Apr-2026 17:21:39 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-includes/functions.php on line 7374
+[24-Apr-2026 17:21:39 UTC] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-includes/functions.php on line 2196
+[24-Apr-2026 17:21:40 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-includes/functions.php on line 7374
+[24-Apr-2026 17:21:40 UTC] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-includes/functions.php on line 2196
+[24-Apr-2026 17:21:44 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-includes/functions.php on line 7374
+[24-Apr-2026 17:21:44 UTC] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/bk8ynujgc97t/public_html/genesis.hotelcostachoco.co/wp-includes/functions.php on line 2196
